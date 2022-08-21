@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jonathan&#39;s Portfolio</title>
-        <link>https://theonewiththelion.github.io/</link>
-        <description>This is my not_test_cool site</description>
+        <title>All Posts - Jonathan&#39;s Portfolio</title>
+        <link>https://theonewiththelion.github.io/posts/</link>
+        <description>All Posts | Jonathan&#39;s Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
-            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 20 Aug 2022 20:34:07 -0500</lastBuildDate>
-            <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 20 Aug 2022 20:34:07 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First Post: From API to Data Studio</title>
     <link>https://theonewiththelion.github.io/posts/first_post/</link>
     <pubDate>Sat, 20 Aug 2022 20:34:07 -0500</pubDate>
