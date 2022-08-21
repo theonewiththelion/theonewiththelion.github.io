@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jonathans website</title>
+        <title>Jonathan&#39;s Portfolio</title>
         <link>https://theonewiththelion.github.io/</link>
-        <description>Hugo theme - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <description>This is my not_test_cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
+            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

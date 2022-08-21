@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Jonathan&#39;s Portfolio</title>
+        <link>https://theonewiththelion.github.io/tags/</link>
+        <description>Tags - Tag - Jonathan&#39;s Portfolio</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
+            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><atom:link href="https://theonewiththelion.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
