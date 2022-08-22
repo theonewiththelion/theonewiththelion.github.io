@@ -4,7 +4,21 @@
         <link>https://theonewiththelion.github.io/posts/</link>
         <description>All Posts | Jonathan&#39;s Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
-            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 20 Aug 2022 20:34:07 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sun, 21 Aug 2022 23:20:46 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Second Post First Data Engineering Project, Focus: Airflow</title>
+    <link>https://theonewiththelion.github.io/posts/second_post/</link>
+    <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
+    <author>Jonathan de Jesus Azor</author>
+    <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
+    <description><![CDATA[Post is under construction, this is available for testing purposes only.
+ETL Diagram of my first project
+Extraction: API containing the crime data from Austin, Texas.
+Transform: Was performed in Visual Studio utilizing Pandas.
+Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore).
+Airflow: Chosen due to popularity
+Visualization: Data Studio because of easy to share and fully customizable dashboards/reports. ]]></description>
+</item>
+<item>
     <title>First Post: Do you want to set an awesome website like this ?</title>
     <link>https://theonewiththelion.github.io/posts/first_post/</link>
     <pubDate>Sat, 20 Aug 2022 20:34:07 -0500</pubDate>
