@@ -7,12 +7,12 @@
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 20 Aug 2022 20:34:07 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First Post: From API to Data Studio</title>
+    <title>First Post: Do you want to set an awesome website like this ?</title>
     <link>https://theonewiththelion.github.io/posts/first_post/</link>
     <pubDate>Sat, 20 Aug 2022 20:34:07 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/first_post/</guid>
-    <description><![CDATA[Hi, this is my first post]]></description>
+    <description><![CDATA[If you want to setup/host/deploy a website on GitHub please check: Ivy&rsquo;s blog.]]></description>
 </item>
 </channel>
 </rss>
