@@ -11,12 +11,7 @@
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
     <description><![CDATA[Post is under construction, this is available for testing purposes only.
-ETL Diagram of my first project
-Extraction: API containing the crime data from Austin, Texas.
-Transform: Was performed in Visual Studio utilizing Pandas.
-Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore).
-Airflow: Chosen due to popularity
-Visualization: Data Studio because of easy to share and fully customizable dashboards/reports. ]]></description>
+ETL Diagram of my first project *Extraction:* API containing the crime data from Austin, Texas. *Transform:* Was performed in Visual Studio utilizing Pandas. *Load:* Data was uploaded into the data warehouse Big Query (Google Cloud Datastore). *Airflow:* Chosen due to popularity Aiflow documentation: [Link](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html) Populating arguments Declaring Dags Setting up Task &amp; dependencies *Visualization:* Data Studio because of easy to share and fully customizable dashboards/reports.]]></description>
 </item>
 <item>
     <title>First Post: Do you want to set an awesome website like this ?</title>
