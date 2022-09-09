@@ -7,16 +7,19 @@
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sun, 21 Aug 2022 23:20:46 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Second Post First Data Engineering Project, Focus: Airflow</title>
+    <title>First Data Engineering Project, Focus: Airflow</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
     <description><![CDATA[Post is under construction, this is available for testing purposes only.
-ETL Diagram of my first project *Extraction:* API containing the crime data from Austin, Texas. *Transform:* Was performed in Visual Studio utilizing Pandas. *Load:* Data was uploaded into the data warehouse Big Query (Google Cloud Datastore). *Airflow:* Chosen due to popularity Aiflow documentation: [Link](https://airflow.apache.org/docs/apache-airflow/stable/tutorial.html) Populating arguments Declaring Dags Setting up Task &amp; dependencies *Visualization:* Data Studio because of easy to share and fully customizable dashboards/reports.]]></description>
+ETL Diagram of my first project Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
+Transformation: Change format of &ldquo;Date Ocurred&rdquo; from Military time, to standard time
+Transformation: Change format of &ldquo;Date Reported&rdquo; from Military time, to standard time
+Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore).]]></description>
 </item>
 <item>
-    <title>First Post: Do you want to set an awesome website like this ?</title>
+    <title>Do you want to set an awesome website like this ?</title>
     <link>https://theonewiththelion.github.io/posts/first_post/</link>
     <pubDate>Sat, 20 Aug 2022 20:34:07 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
