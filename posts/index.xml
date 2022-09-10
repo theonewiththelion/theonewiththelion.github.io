@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Jonathan&#39;s Portfolio</title>
+        <title>All Posts - Jonathan de Jesus Portfolio</title>
         <link>https://theonewiththelion.github.io/posts/</link>
-        <description>All Posts | Jonathan&#39;s Portfolio</description>
+        <description>All Posts | Jonathan de Jesus Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 11:28:17 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Data Ingestion</title>
@@ -13,7 +13,7 @@
     <description><![CDATA[Under construction]]></description>
 </item>
 <item>
-    <title>Airflow; ETL</title>
+    <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>

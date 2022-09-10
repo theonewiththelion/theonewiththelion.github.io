@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Jonathan&#39;s Portfolio</title>
+        <title>Jonathan de Jesus Portfolio</title>
         <link>https://theonewiththelion.github.io/</link>
-        <description>This is my not_test_cool site</description>
+        <description>My cool data portfolio site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 11:28:17 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,7 @@
     <description><![CDATA[Under construction]]></description>
 </item>
 <item>
-    <title>Airflow; ETL</title>
+    <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
