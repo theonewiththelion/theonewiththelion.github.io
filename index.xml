@@ -4,19 +4,26 @@
         <link>https://theonewiththelion.github.io/</link>
         <description>This is my not_test_cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
-            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sun, 21 Aug 2022 23:20:46 -0500</lastBuildDate>
+            <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 11:28:17 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First Data Engineering Project, Focus: Airflow</title>
+    <title>Data Ingestion</title>
+    <link>https://theonewiththelion.github.io/posts/3post/</link>
+    <pubDate>Sat, 10 Sep 2022 11:28:17 -0500</pubDate>
+    <author>Jonathan de Jesus Azor</author>
+    <guid>https://theonewiththelion.github.io/posts/3post/</guid>
+    <description><![CDATA[Under construction]]></description>
+</item>
+<item>
+    <title>Airflow; ETL</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
-    <description><![CDATA[Post is under construction, this is available for testing purposes only.
-ETL Diagram of my first project Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
+    <description><![CDATA[ETL Diagram of my first project Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
 Transformation: Change format of &ldquo;Date Ocurred&rdquo; from Military time, to standard time
 Transformation: Change format of &ldquo;Date Reported&rdquo; from Military time, to standard time
-Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore).]]></description>
+Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore). Airflow: Chosen due to popularity Aiflow documentation]]></description>
 </item>
 <item>
     <title>Do you want to set an awesome website like this ?</title>
