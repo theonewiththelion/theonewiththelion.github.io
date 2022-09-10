@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mes on Jonathan de Jesus Portfolio</title>
+    <link>https://theonewiththelion.github.io/me/</link>
+    <description>Recent content in Mes on Jonathan de Jesus Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
+    <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster>
+    <lastBuildDate>Sat, 10 Sep 2022 12:41:19 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://theonewiththelion.github.io/me/about_me/</link>
+      <pubDate>Sat, 10 Sep 2022 12:41:19 -0500</pubDate>
+      <author>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</author>
+      <guid>https://theonewiththelion.github.io/me/about_me/</guid>
+      <description>Hi Team, Welcome to my bio:
+Jonathan de Jesus is a Senior Consultant at EY, with experience in SAP Implementation, Master Data Governance and Data Migrations. As of right now, he is interested in building his skills as a Data Engineer. His background in MDG implementations fueled his desire to make data available to everyone in the company (Other Data Engineers/Data Analyst, Data science teams, etc &amp;hellip;). He considers himself a &amp;ldquo;fast learner&amp;rdquo; and a go getter.</description>
+    </item>
+    
+  </channel>
+</rss>

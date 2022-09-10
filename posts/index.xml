@@ -10,15 +10,16 @@
     <pubDate>Sat, 10 Sep 2022 11:28:17 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/3post/</guid>
-    <description><![CDATA[Under construction]]></description>
+    <description><![CDATA[Coming soon.]]></description>
 </item>
 <item>
     <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
-    <author>Jonathan de Jesus Azor</author>
+    <author>Jonathan de Jesus</author>
     <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
-    <description><![CDATA[ETL Diagram of my first project Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
+    <description><![CDATA[ETL Diagram of my first project A local duck I photographed recently
+Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
 Transformation: Change format of &ldquo;Date Ocurred&rdquo; from Military time, to standard time
 Transformation: Change format of &ldquo;Date Reported&rdquo; from Military time, to standard time
 Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore). Airflow: Chosen due to popularity Aiflow documentation]]></description>
