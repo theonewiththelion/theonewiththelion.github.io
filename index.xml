@@ -7,6 +7,15 @@
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 12:41:19 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Data Ingestion</title>
+    <link>https://theonewiththelion.github.io/posts/3post/</link>
+    <pubDate>Sat, 10 Sep 2022 11:28:17 -0500</pubDate>
+    <author>Jonathan de Jesus Azor</author>
+    <guid>https://theonewiththelion.github.io/posts/3post/</guid>
+    <description><![CDATA[![Basic configuration preview](content/posts/API Extraction (1).png &ldquo;Basic configuration preview&rdquo;)
+Coming soon.]]></description>
+</item>
+<item>
     <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
     <link>https://theonewiththelion.github.io/posts/second_post/</link>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
