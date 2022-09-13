@@ -5,13 +5,12 @@
         <description>All Posts | Jonathan de Jesus Portfolio</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</managingEditor>
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 11:28:17 -0500</lastBuildDate><atom:link href="https://theonewiththelion.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Data Ingestion</title>
+    <title>Data Ingestion - Coming Soon</title>
     <link>https://theonewiththelion.github.io/posts/3post/</link>
     <pubDate>Sat, 10 Sep 2022 11:28:17 -0500</pubDate>
     <author>Jonathan de Jesus Azor</author>
     <guid>https://theonewiththelion.github.io/posts/3post/</guid>
-    <description><![CDATA[![Basic configuration preview](content/posts/API Extraction (1).png &ldquo;Basic configuration preview&rdquo;)
-Coming soon.]]></description>
+    <description><![CDATA[Coming soon.]]></description>
 </item>
 <item>
     <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
@@ -19,10 +18,8 @@ Coming soon.]]></description>
     <pubDate>Sun, 21 Aug 2022 23:20:46 -0500</pubDate>
     <author>Jonathan de Jesus</author>
     <guid>https://theonewiththelion.github.io/posts/second_post/</guid>
-    <description><![CDATA[ETL Diagram of my first project Extraction: API containing the crime data from Austin, Texas. Transform: Was performed in Visual Studio utilizing Pandas. Transformation: Rename of Columns
-Transformation: Change format of &ldquo;Date Ocurred&rdquo; from Military time, to standard time
-Transformation: Change format of &ldquo;Date Reported&rdquo; from Military time, to standard time
-Load: Data was uploaded into the data warehouse Big Query (Google Cloud Datastore). Airflow: Chosen due to popularity Aiflow documentation]]></description>
+    <description><![CDATA[ETL Diagram of my first project Idea: Get data raw data from Austin Crime, transform it, store the data in the cloud and utilize a visualization too to properly present the data.
+List of Technology used in this project are: Visual Studio Python Pandas Big Query Data Studio Airflow 1. Library Imports 2. Extraction: API containing the crime data from Austin, Texas. 3. Transformation: Used Visual Studio &amp; Pandas. Transformation: Rename of Columns Transformation: Change format of &ldquo;Date Ocurred&rdquo; from military time, to standard time Transformation: Change format of &ldquo;Date Reported&rdquo; from military time, to standard time 4.]]></description>
 </item>
 <item>
     <title>Do you want to set an awesome website like this ?</title>
