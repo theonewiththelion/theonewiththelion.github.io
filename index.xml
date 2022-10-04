@@ -7,14 +7,14 @@
             <webMaster>jonathan.dejesus.azor@gmail.com (Jonathan de Jesus Azor)</webMaster><lastBuildDate>Sat, 10 Sep 2022 11:28:17 -0500</lastBuildDate>
             <atom:link href="https://theonewiththelion.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Azure ETL: PowerBI - Coming Soon/Work in Progress</title>
+    <title>Azure ETL: PowerBI - Coming Soon/Work in Progress - Screenshots pending</title>
     <link>https://theonewiththelion.github.io/posts/3post/</link>
     <pubDate>Sat, 10 Sep 2022 11:28:17 -0500</pubDate>
     <author>Jonathan de Jesus</author>
     <guid>https://theonewiththelion.github.io/posts/3post/</guid>
-    <description><![CDATA[ETL Diagram from Austin API data to PowerBI Idea: Extract data from (Link to data), separate the columns into three different tables, transform the information, upload into Azure SQL and Visualize the information in PowerBi. (Insert diagram)
-List of Technology used in this project are: List of skills used in this project are:
-Visual Studio Python - Pandas, SQLAlchemy Azure SQL PowerBI Data Modeling Steps: Extraction Import Libraries Create connection to Database Extract data from API Create 3 tables in Azure SQL Store data in 3 different tables: names, dates, outcome Transformation: Extract information from tables - Azure SQL Transform column monthyear, split values into two new columns Transform column date, split information into 3 new columns Transform column date of birth, take the information on the left of “T” delete columns: Date time, month year Load values into the table dates: since is tjhe only table where I performed transformation Load: pending Created 3 new table (Production simulation) Load records into new tables Visualization: Will be using PowerBI ]]></description>
+    <description><![CDATA[ETL Diagram from Austin API data to PowerBI Idea: Extract data from Austin, separate the information into three different tables, transform the data, upload it to Azure SQL and Visualize the information in PowerBI. (Insert diagram)
+List of Technology used on this project: List of skills used in this project are:
+Visual Studio Python - Pandas, SQLAlchemy, Functions(I know, right?) Azure SQL PowerBI Data Modeling ETL Information: Extraction Import Libraries from datetime import date, datetime from sqlalchemy import create_engine from sqlalchemy import Table, Column, Integer, String, MetaData, DateTime, Float import urllib import json import requests import pandas as pd Create connection to Database Extract data from API Create 3 tables in Azure SQL Store data in 3 different tables: names, dates, outcome Transformation: Extract information from tables - Azure SQL Transform column monthyear, split values into two new columns Transform column date, split information into 3 new columns Transform column date of birth, take the information on the left of “T” delete columns: Date time, month year Load values into the table dates: since is tjhe only table where I performed transformation Load: pending Created 3 new table (Production simulation) Load records into new tables Visualization: Will be using PowerBI ]]></description>
 </item>
 <item>
     <title>Basic ETL using Python, Big Query, Data Studio &amp; Airflow</title>
